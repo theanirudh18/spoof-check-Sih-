@@ -1,0 +1,8 @@
+{
+    "video_file": "test_video.mp4",
+    "loop_detected": false,
+    "cut_paste_detected": false,
+    "freeze_or_frame_drop_detected": false,
+    "suspicious_frames": [],
+    "final_status": "Authentic"
+}

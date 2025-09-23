@@ -1,0 +1,2 @@
+video_file,loop_detected,cut_paste_detected,freeze_or_frame_drop_detected,suspicious_frames,final_status
+test_video.mp4,False,False,False,[],Authentic

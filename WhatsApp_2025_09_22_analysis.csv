@@ -1,0 +1,2 @@
+video_file,loop_detected,cut_paste_detected,freeze_or_frame_drop_detected,suspicious_frames,final_status
+WhatsApp_2025_09_22.mp4,True,False,False,"[{'type': 'loop', 'frame': 36, 'file': 'WhatsApp_2025_09_22_analysis_proofs/loop_frame_36.jpg'}]",Edited
