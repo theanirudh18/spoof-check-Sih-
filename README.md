@@ -38,13 +38,17 @@ The tool will automatically scan all .mp4 files and generate:
 
 Reports: video_analysis.json, video_analysis.csv
 Proof frames: inside video_analysis_proofs/
-
-
-
-
-
-
-
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 📝 Example Output
