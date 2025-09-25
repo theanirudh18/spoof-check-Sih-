@@ -26,7 +26,7 @@ pip install opencv-python numpy tqdm
 📂 How to Run
 
 Clone the repo:
-git clone https://github.com/your-username/video-forensics.git
+git clone https://github.com/theanirudh18/video-forensics.git
 cd video-forensics
 
 Place your .mp4 videos inside the same folder.
