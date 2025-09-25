@@ -1,0 +1,194 @@
+{
+    "video_file": "WhatsApp Video 2025-09-24 at 10.55.57.mp4",
+    "loop_detected": true,
+    "cut_paste_detected": false,
+    "freeze_or_frame_drop_detected": false,
+    "suspicious_frames": [
+        {
+            "type": "loop",
+            "frame": 21,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_21.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 51,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_51.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 52,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_52.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 149,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_149.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 151,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_151.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 153,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_153.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 158,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_158.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 160,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_160.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 164,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_164.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 165,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_165.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 166,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_166.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 167,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_167.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 168,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_168.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 169,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_169.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 170,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_170.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 171,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_171.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 172,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_172.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 173,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_173.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 174,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_174.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 194,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_194.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 216,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_216.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 217,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_217.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 218,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_218.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 219,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_219.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 220,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_220.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 221,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_221.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 222,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_222.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 223,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_223.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 224,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_224.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 225,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_225.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 226,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_226.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 227,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_227.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 228,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_228.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 229,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_229.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 230,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_230.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 231,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_231.jpg"
+        },
+        {
+            "type": "loop",
+            "frame": 232,
+            "file": "WhatsApp Video 2025-09-24 at 10.55.57_analysis_proofs/loop_frame_232.jpg"
+        }
+    ],
+    "final_status": "Edited"
+}

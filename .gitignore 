@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+*.swp
+
+# Node / Python / general
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+*.env
+
+# Large media / test data
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.csv
+*.zip
+
+# Databases / logs
+*.db
+*.sqlite3
+*.log
+
+# Build artifacts
+dist/
+build/
